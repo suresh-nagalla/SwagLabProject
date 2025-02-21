@@ -1,4 +1,5 @@
-﻿using SwagLabProject.Selenium.Actions;
+﻿using NUnit.Framework;
+using SwagLabProject.Selenium.Actions;
 using SwagLabProject.Selenium.Drivers;
 
 namespace SwagLabProject.Selenium.TestSuite
