@@ -1,0 +1,2 @@
+# Ignore Playwright specific files
+playwright-report/
