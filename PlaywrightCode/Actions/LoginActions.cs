@@ -1,0 +1,1 @@
+using System.Threading.Tasks;\nusing Microsoft.Playwright;\nusing SwagLabProject.PlaywrightCode.Pages;\n\nnamespace SwagLabProject.PlaywrightCode.Actions\n{\n    public class LoginActions\n    {\n        private readonly LoginPage _loginPage;\n\n        public LoginActions(IPage page) => _loginPage = new LoginPage(page);\n
